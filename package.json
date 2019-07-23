@@ -39,7 +39,7 @@
     "url": "https://github.com/Nozbe/WatermelonDB.git"
   },
   "dependencies": {
-    "lokijs": "^1.5.5",
+    "lokijs": "^1.5.7",
     "rambdax": "^2.6.1",
     "rxjs": "^6.2.2",
     "rxjs-compat": "^6.3.2",
