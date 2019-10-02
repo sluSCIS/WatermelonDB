@@ -130,7 +130,7 @@
     "react": "^16.10.1",
     "react-dom": "^16.10.1",
     "@testing-library/react-hooks": "^1.1.0",
-    "react-native": "^0.59.3",
+    "react-native": "^0.61.2",
     "react-test-renderer": "16.10.1",
     "rimraf": "^3.0.0",
     "semver": "^6.0.0",
